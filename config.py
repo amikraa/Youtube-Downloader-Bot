@@ -1,7 +1,7 @@
 # config.py
 
 # Telegram Bot Token
-TOKEN = "6325965135:AAGF9bvZwHqf3Hj2HcAdHcfvDzbHoZG_Eb0"
+TOKEN = "6771700719:AAEJOXmrGZ-v1s5_1zEj9LqKOgqPDoJBbjY"
 
 
 # Other Configuration Options
